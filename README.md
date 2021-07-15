@@ -56,6 +56,9 @@
     - Roboeletric 
     - Aproveitando as novidades do Jupiter dentro universo Junit
 
+7. API's extras do Android
+    - Login com Biometria
+
 ## Quem está criando?
 
 O zupper que está construindo este treinamento é Matheus Brandino(nosso mestre do android). Sinta-se a vontade para falar com eles sobre qualquer ponto que eventualmente você ache importante relacionado ao que será apresentado no treinamento.
