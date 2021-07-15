@@ -65,7 +65,7 @@ O zupper que está construindo este treinamento é Matheus Brandino(nosso mestre
 
 ## Está interessado(a) ?
 
-A primeira versão deste treinamento está prevista para ser lançada no dia 06/09/2021. Ele vai poder ser consumido no modelo que chamamos de self-paced, ou seja você faz no seu tempo respeitando o seu contexto. Ele virá recheado de conteúdo teórico autoral e muitas atividades que vão realmente te desafiar. 
+A primeira versão deste treinamento está prevista para ser lançada no dia 27/09/2021. Ele vai poder ser consumido no modelo que chamamos de self-paced, ou seja você faz no seu tempo respeitando o seu contexto. Ele virá recheado de conteúdo teórico autoral e muitas atividades que vão realmente te desafiar. 
 
 Acreditamos que um treino realmente bem feito acelera demais seu desenvolvimento e te deixa cada vez mais preparado(a) para os desafios que você vai encontrar no campo de jogo. 
 
