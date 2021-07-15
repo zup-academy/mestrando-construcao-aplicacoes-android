@@ -63,7 +63,7 @@
 
 O zupper que está construindo este treinamento é Matheus Brandino(nosso mestre do android). Sinta-se a vontade para falar com eles sobre qualquer ponto que eventualmente você ache importante relacionado ao que será apresentado no treinamento.
 
-## Está interessado ?
+## Está interessado(a) ?
 
 A primeira versão deste treinamento está prevista para ser lançada no dia 06/09/2021. Ele vai poder ser consumido no modelo que chamamos de self-paced, ou seja você faz no seu tempo respeitando o seu contexto. Ele virá recheado de conteúdo teórico autoral e muitas atividades que vão realmente te desafiar. 
 
