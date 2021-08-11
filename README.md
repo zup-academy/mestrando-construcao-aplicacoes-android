@@ -22,8 +22,11 @@
 1. View
     - ConstraintLayout
     - RecyclerView
-    - Criação de Views personalizadas`
+    - Criação de Views personalizadas
     - Acessibilidade
+    - Utilização de arquivos drawable para compor layout: linhas tracejadas, bordas arredondadas, mudança do estado de views
+    - Estilização de temas e componentes
+    - Separação de textos de layout e criação de textos flexíveis
 
 2. Arquitetura
     - MVVM 
